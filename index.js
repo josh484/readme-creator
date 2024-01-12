@@ -9,13 +9,33 @@ const generateMarkdown = require("./utils/generateMarkdown");
 const questions = [
     {
         type: 'input',
-                message: 'What title?',
-                name: 'title',
+        message: 'README Title?',
+        name: 'title',
     },
     {
         type: 'input',
-                message: 'What deets?',
-                name: 'deets',
+        message: 'Description for README',
+        name: 'description',
+    },
+    {
+        type: 'input',
+        message: 'Installation Instructions for README',
+        name: 'installation',
+    },
+    {
+        type: 'input',
+        message: 'Usage Instructions for README',
+        name: 'usage',
+    },
+    {
+        type: 'input',
+        message: 'Contributions for README',
+        name: 'contribution',
+    },
+    {
+        type: 'input',
+        message: 'Tests for README',
+        name: 'tests',
     },
 ];
 
