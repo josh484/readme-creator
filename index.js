@@ -7,17 +7,20 @@ const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
 const questions = [
-    
+    {
+        type: 'input',
+                message: 'What title?',
+                name: 'title',
+    },
+    {
+        type: 'input',
+                message: 'What deets?',
+                name: 'deets',
+    },
 ];
 
     inquirer
-        .prompt([
-            {
-                type: 'input',
-                message: 'What title?',
-                name: 'title',
-            },
-        ])
+        .prompt(questions)
         .then(function (response) {
             fs.writeFile('README.md', generateMarkdown(response), (err) =>
             err ? console.error(err) : console.log('Success!')
@@ -32,10 +35,5 @@ function writeToFile(fileName, data) {
     );
 }
 
-// function to initialize program
-function init() {
-    writeToFile('README.md', prompt());
-}
 
-// function call to initialize program
 
