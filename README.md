@@ -1,8 +1,8 @@
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-# fsadasd
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+# asdasd
 ## Description
-asdads
+asdasd
 ## Table of Contents
 [Installation](#installation)
 [Usage](#usage)
@@ -11,16 +11,16 @@ asdads
 [Tests](#tests)
 [Questions](#questions)
 ## Installation
-adsasd
+asdasadsadsadsads
 ## Usage
-asdads
+asdasdads
 ## Lisence
-This work is using the lisence: GNU GPL V3
+This work is using the lisence: BSD 3-Clause Lisence
 ## Contribution
-asasdads
+adsasd
 ## Tests
-asdads
+asdsda
 ## Questions
 Github username: undefined
 github.com/undefined
-Reach out to me for additional instructions at: undefined
+Reach out to me for additional instructions at: josh@josh.com

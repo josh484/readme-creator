@@ -3,7 +3,10 @@ const fs = require("fs");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
-
+// function for email validation
+const checkEmail = async (input) => {
+    return /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()\.,;\s@\"]+\.{0,1})+([^<>()\.,;:\s@\"]{2,}|[\d\.]+))$/.test(input)
+}
 
 // array of questions for user
 const questions = [
@@ -43,6 +46,12 @@ const questions = [
         name: 'lisence',
         choices: ['MIT', 'Mozilla', 'GNU GPL V3', 'BSD 3-Clause Lisence']
     },
+    {
+        type: 'input',
+        message: 'What is your E-mail',
+        name: 'email',
+        validate: checkEmail
+    },
 ];
 
     inquirer
@@ -54,12 +63,6 @@ const questions = [
         });
 
 
-// function to write README file
-function writeToFile(fileName, data) {
-    fs.appendFile(fileName, data, (err) =>
-        err ? console.error(err) : console.log('Success!')
-    );
-}
 
 
 
