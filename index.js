@@ -42,13 +42,18 @@ const questions = [
     },
     {
         type: 'list',
-        message: 'Which Lisence would you like to use',
+        message: 'Which Lisence would you like to use?',
         name: 'lisence',
         choices: ['MIT', 'Mozilla', 'GNU GPL V3', 'BSD 3-Clause Lisence']
     },
     {
         type: 'input',
-        message: 'What is your E-mail',
+        message: 'What is your GitHub name?',
+        name: 'gitname',
+    },
+    {
+        type: 'input',
+        message: 'What is your E-mail?',
         name: 'email',
         validate: checkEmail
     },

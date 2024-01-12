@@ -1,8 +1,8 @@
 
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-# asdasd
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# asdasddaasdsa
 ## Description
-asdasd
+asdads
 ## Table of Contents
 [Installation](#installation)
 [Usage](#usage)
@@ -11,16 +11,16 @@ asdasd
 [Tests](#tests)
 [Questions](#questions)
 ## Installation
-asdasadsadsadsads
+dsaasdasd
 ## Usage
-asdasdads
+asdsad
 ## Lisence
-This work is using the lisence: BSD 3-Clause Lisence
+This work is using the lisence: MIT
 ## Contribution
-adsasd
+asdsadds
 ## Tests
-asdsda
+asdsadds
 ## Questions
-Github username: undefined
-github.com/undefined
-Reach out to me for additional instructions at: josh@josh.com
+Github username: josh484
+github.com/josh484
+Reach out to me for additional instructions at: sdsdfdfssdfdsf@sadasdads
