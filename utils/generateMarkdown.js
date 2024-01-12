@@ -6,12 +6,12 @@ ${lisence(data.lisence)}
 ## Description
 ${data.description}
 ## Table of Contents
-[Installation](#installation)
-[Usage](#usage)
-[Lisence](#lisence)
-[Contribution](#contribution)
-[Tests](#tests)
-[Questions](#questions)
+[Installation](#installation) <br />
+[Usage](#usage) <br />
+[Lisence](#lisence) <br />
+[Contribution](#contribution) <br />
+[Tests](#tests) <br />
+[Questions](#questions) 
 ## Installation
 ${data.installation}
 ## Usage
