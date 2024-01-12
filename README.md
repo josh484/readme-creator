@@ -1,8 +1,8 @@
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# asdasddaasdsa
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# asdasdasdasads
 ## Description
-asdads
+asdsadads
 ## Table of Contents
 [Installation](#installation)
 [Usage](#usage)
@@ -11,16 +11,15 @@ asdads
 [Tests](#tests)
 [Questions](#questions)
 ## Installation
-dsaasdasd
+asdasdsa
 ## Usage
-asdsad
+asddsaadsads
 ## Lisence
-This work is using the lisence: MIT
+This work is using the lisence: GNU GPL V3
 ## Contribution
-asdsadds
+asdsdasd
 ## Tests
-asdsadds
+assaddas
 ## Questions
-Github username: josh484
-github.com/josh484
-Reach out to me for additional instructions at: sdsdfdfssdfdsf@sadasdads
+Github username: josh484 
+[GitHub](github.com/josh484)Reach out to me for additional instructions at: [josh.m.mendoza1@gmail.com](josh.m.mendoza1@gmail.com)
