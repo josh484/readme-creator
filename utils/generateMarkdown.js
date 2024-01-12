@@ -24,8 +24,8 @@ ${data.contribution}
 ${data.tests}
 ## Questions
 Github username: ${data.gitname}\ 
-[GitHub](github.com/${data.gitname})\
-Reach out to me for additional instructions at: [${data.email}](${data.email})
+[GitHub](https://www.github.com/${data.gitname})\
+Reach out to me for additional instructions at: [${data.email}](mailto:${data.email})
 `;
 }
 
