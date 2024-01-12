@@ -37,6 +37,11 @@ const questions = [
         message: 'Tests for README',
         name: 'tests',
     },
+    {
+        type: 'input',
+        message: 'Tests for README',
+        name: 'lisence',
+    },
 ];
 
     inquirer
