@@ -38,9 +38,10 @@ const questions = [
         name: 'tests',
     },
     {
-        type: 'input',
-        message: 'Tests for README',
+        type: 'list',
+        message: 'Which Lisence would you like to use',
         name: 'lisence',
+        choices: ['MIT', 'Mozilla', 'GNU GPL V3', 'BSD 3-Clause Lisence']
     },
 ];
 

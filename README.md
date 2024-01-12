@@ -1,8 +1,8 @@
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# asddsa
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# fsadasd
 ## Description
-asd
+asdads
 ## Table of Contents
 [Installation](#installation)
 [Usage](#usage)
@@ -11,15 +11,15 @@ asd
 [Tests](#tests)
 [Questions](#questions)
 ## Installation
-asdsa
+adsasd
 ## Usage
-asd
+asdads
 ## Lisence
-This work is using the lisence: MIT
+This work is using the lisence: GNU GPL V3
 ## Contribution
-asd
+asasdads
 ## Tests
-ads
+asdads
 ## Questions
 Github username: undefined
 github.com/undefined
