@@ -1,5 +1,5 @@
 const fs = require("fs");
-
+const path = require('path');
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
@@ -62,8 +62,8 @@ const questions = [
     inquirer
         .prompt(questions)
         .then(function (response) {
-            fs.writeFile('README.md', generateMarkdown(response), (err) =>
-            err ? console.error(err) : console.log('Success!')
+            fs.writeFile('README_Sample.md', generateMarkdown(response), (err) =>
+            err ? console.error(err) : console.log('Congrats your README file was created at: '+ path.basename('./README_Sample.md'))
             );
         });
 

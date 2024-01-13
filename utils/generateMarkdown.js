@@ -8,7 +8,7 @@ ${data.description}
 ## Table of Contents
 [Installation](#installation) <br />
 [Usage](#usage) <br />
-[Lisence](#lisence) <br />
+[License](#license) <br />
 [Contribution](#contribution) <br />
 [Tests](#tests) <br />
 [Questions](#questions) 
@@ -16,8 +16,8 @@ ${data.description}
 ${data.installation}
 ## Usage
 ${data.usage}
-## Lisence
-This work is using the lisence: ${data.lisence}
+## License
+This work is using the license: ${data.lisence}
 ## Contribution
 ${data.contribution}
 ## Tests
