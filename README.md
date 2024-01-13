@@ -16,7 +16,7 @@ This application highlights my understanding of ES6 and Node as it uses them thr
 In order to install the project simply click the green code button and download the file as a zip. Once downloaded simply right click on the file and unzip the folder.
 ## Usage
 Once the file is downloaded simply in a terminal locate the application folder and type ```node index.js``` and you will be given a series of prompts.
-[Node example](./assets/images/node_example.png)
+![Node example](./assets/images/node_example.png)
 Once filled it will then generate a README_Sample File.
 ## Lisence
 This work is using the lisence: MIT
