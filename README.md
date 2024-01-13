@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # README File Creator
 Link to Repository: https://github.com/josh484/readme-creator
-Link to Video: 
+Link to Video: https://youtu.be/H2M5taF34Kg
 ## Description
 A README file generator using inquirer and node.js. The application takes in user inputs for each section of the README file and fills out the section using the information taken from user input. 
 This application highlights my understanding of ES6 and Node as it uses them throughout the project for instance through the use of arrow functions.

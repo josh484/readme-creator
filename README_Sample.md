@@ -1,8 +1,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Hello
+# Hello World
 ## Description
-asddsadasdasdsaa
+This is a README file Description 
 ## Table of Contents
 [Installation](#installation) <br />
 [Usage](#usage) <br />
@@ -11,16 +11,16 @@ asddsadasdasdsaa
 [Tests](#tests) <br />
 [Questions](#questions) 
 ## Installation
-asdadssdads
+Install the application using the green button on github and choose a variety of ways to install
 ## Usage
-asdasadsasd
+use the application through the use of the terminal
 ## License
 This work is using the license: MIT
 ## Contribution
-asdadsdsdsadasadsdas
+created by Joshua Mendoza
 ## Tests
-asasdsd
+No Tests Currently
 ## Questions
 Github username: josh484 <br /> 
 [GitHub](https://www.github.com/josh484) <br />
-Reach out to me for additional instructions at: [email@email.com](mailto:email@email.com)
+Reach out to me for additional instructions at: [josh.m.mendoza1@gmail.com](mailto:josh.m.mendoza1@gmail.com)
